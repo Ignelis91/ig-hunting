@@ -6,6 +6,8 @@
 
 [ox_target](https://github.com/overextended/ox_target)
 
+[j-textui](https://github.com/Jaareet/j-textui)
+
 ## OX_Inventory
 	-- Medžioklė
 	['meat'] = {
