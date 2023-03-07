@@ -1,7 +1,6 @@
 # ig-hunting
 
 
-
 	-- Medžioklė
 	['meat'] = {
 		label = 'Elnio mėsa',
@@ -26,3 +25,5 @@
 		close = false,
 		description = ''
 	},
+
+## Preview
