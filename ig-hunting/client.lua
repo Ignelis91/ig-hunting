@@ -50,7 +50,7 @@ lib.points.new(sellingPoint.xyz, 100.0, {
                                 TaskPlayAnim(data.entity, 'gestures@f@standing@casual', 'gesture_hand_down', 2.0, 2.0, 3000, 16, 0.0, false, false, false)
                                 RemoveAnimDict('gestures@f@standing@casual')
                             end
-                        end, securityToken)
+                        end)
                     end,
                 },
                 {
@@ -228,7 +228,7 @@ CreateThread(function()
                                     if success then
                                         DeleteEntity(currentDeer)
                                     end
-                                end, deerNetworkId, securityToken)
+                                end, deerNetworkId)
                             end
 
                             closestDeer = nil
