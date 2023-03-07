@@ -1,6 +1,12 @@
 # ig-hunting
 
+## Requires 
 
+[ox_lib](https://github.com/overextended/ox_lib)
+
+[ox_target](https://github.com/overextended/ox_target)
+
+## OX_Inventory
 	-- Medžioklė
 	['meat'] = {
 		label = 'Elnio mėsa',
