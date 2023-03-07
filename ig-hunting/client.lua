@@ -71,7 +71,7 @@ lib.points.new(sellingPoint.xyz, 100.0, {
                                 TaskPlayAnim(data.entity, 'gestures@f@standing@casual', 'gesture_hand_down', 2.0, 2.0, 3000, 16, 0.0, false, false, false)
                                 RemoveAnimDict('gestures@f@standing@casual')
                             end
-                        end, 'meat', securityToken)
+                        end, 'meat')
                     end,
                 },
                 {
@@ -92,7 +92,7 @@ lib.points.new(sellingPoint.xyz, 100.0, {
                                 TaskPlayAnim(data.entity, 'gestures@f@standing@casual', 'gesture_hand_down', 2.0, 2.0, 3000, 16, 0.0, false, false, false)
                                 RemoveAnimDict('gestures@f@standing@casual')
                             end
-                        end, 'pelt', securityToken)
+                        end, 'pelt')
                     end,
                 },
                 {
@@ -113,7 +113,7 @@ lib.points.new(sellingPoint.xyz, 100.0, {
                                 TaskPlayAnim(data.entity, 'gestures@f@standing@casual', 'gesture_hand_down', 2.0, 2.0, 3000, 16, 0.0, false, false, false)
                                 RemoveAnimDict('gestures@f@standing@casual')
                             end
-                        end, 'horns', securityToken)
+                        end, 'horns')
                     end,
                 }
             })
