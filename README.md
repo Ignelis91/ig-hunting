@@ -33,6 +33,8 @@
 		close = false,
 		description = ''
 	},
+	
+	['hunting_license'] = { label = 'Medžioklės licenzija' },
 
 ## Preview
 
